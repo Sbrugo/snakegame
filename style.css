@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    background: deeppink;
+    font-family: Palatino;
+    color: #1C2833;
+}
+h6 {
+    font-family: URW Palladio L;
+}
+.grid {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(3,22,9);
+}
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+.content {
+    float: left;
+    width: 20%;
+    padding: 50px;
+}
+
+.snake {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.apple1 {
+    background-color: purple;
+    border-radius: 10px;
+}
+
+.apple2 {
+    background-color: red;
+    border-radius: 10px;
+}
+
+button {
+    background: rgb(93, 116, 54);
+    color: #1C2833;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    cursor:pointer;
+    background: rgb(8,218,8);
+}
+
+.score 
+.lives {
+    display:block;
+    margin: 20px;
+    padding: 20px;
+    font-size: 36px;
+}
+
+.score {
+    color: rgb(8,132,173);
+    margin-bottom: 10px;
+}
+
+.lives {
+    color: rgb(177,19,19);
+    margin-bottom: 10px;
+}
