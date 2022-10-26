@@ -1,4 +1,5 @@
 # snake
-snake classic game 
-Intento de hacer una página de un classic snake game con un estilo moderno y personal. Son totalmente invitados colaboradores a darle un giro al diseño 
-para darle vida y que quede renovado del juego clasico. Todavía falta JS asique no tiene funcionalidad. 
+🏛️
+Intento de hacer una página del ✨ classic snake game ✨ con un estilo moderno y personal. 
+🕹️ La idea es darle un giro contemporaneo y propio al juego. ¡Que quede renovado del juego!
+Están totalmente invitados colaboradores a hacerle cambios al documento CSS. Todavía falta JS asique no tiene funcionalidad. 
